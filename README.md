@@ -25,7 +25,7 @@ I’m looking to collaborate on exciting projects that:
 ## 📫 Let’s Connect!  
 - GitHub: [@jheremydev](https://github.com/jheremydev)  
 - Email: *jheremypc.dev@gmail.com*
-- LinkedIn: [jheremydev](https://linkedin.com/in/jheremy-pinto-crespo-3215b2268)
+- LinkedIn: [jheremydev](https://linkedin.com/in/jheremydev)
 
 ## ⚡ Fun Fact  
 When I’m not coding, I’m probably exploring new tech trends, gaming, or enjoying a good cup of coffee. ☕  
